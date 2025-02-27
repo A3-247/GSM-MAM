@@ -1,0 +1,1 @@
+This code is divided into two stages: pre-training and fine-tuning, based on the graph structure and multi-layer attention AD multi-classification auxiliary diagnosis model, the current public code is the core code part, and will be encapsulated into a system for disclosure in the future.
